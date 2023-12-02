@@ -1,2 +1,2 @@
 # Vinzie
-This is my Tuto for Dennis profolio
+This is my Tuto to learn to build Dennis protfolio
