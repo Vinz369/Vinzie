@@ -1,2 +1,2 @@
 # Vinzie
-This is my Tuto to learn to build Dennis protfolio
+This is my tuto to learn to build a wonderful portfolio like Dennis syllember
